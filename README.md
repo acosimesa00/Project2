@@ -1,2 +1,3 @@
 # Project2
-sample Only
+- sample Only
+- Test Codes
